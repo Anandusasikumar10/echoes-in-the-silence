@@ -3,6 +3,11 @@
 *A quiet, branching story main built in Python — written in fragments, meant to be felt.*
 
 ---
+## 🎮 Play the Game Instantly (No Install Needed)
+
+👉 [Click here to play on Replit](https://replit.com/join/yylhytzkcb-anandusasikumar) 
+Just hit “Run” and start the story.
+
 
 ## 🪞 What is this?
 
@@ -75,8 +80,7 @@ Even a single sentence can echo.
 
 > *“Some stories aren’t told out loud — they’re felt in the silence between questions.”*
 
-## 🎮 How to Play
-[Click here to play in your browser](https://replit.com/join/yylhytzkcb-anandusasikumar)
+
 
 
 
