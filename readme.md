@@ -8,6 +8,7 @@
 👉 [Click here to play on Replit](https://replit.com/join/yylhytzkcb-anandusasikumar) 
 Just hit “Run” and start the story.
 
+---
 
 ## 🪞 What is this?
 
