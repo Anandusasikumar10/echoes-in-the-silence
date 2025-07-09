@@ -5,7 +5,7 @@
 ---
 ## 🎮 Play the Game Instantly (No Install Needed)
 
-👉 [Click here to play on Replit](https://replit.com/join/yylhytzkcb-anandusasikumar) 
+👉 [Click here to play on Replit](https://replit.com/join/pjcnvqhcye-anandusasikumar)
 Just hit “Run” and start the story.
 
 ---
